@@ -17,20 +17,20 @@ Provide a used motorcycle sales platform with simple features for admins and cus
 ### Data Flow Diagram (DFD)
 Describes the data flow between the Admin, Customer, and the System.
 
-📂 File: [`HypeBike_DFD.drawio`](./Used-Motorcycle-Sales-Platform/Motorcycle Store.drawio)
+📂 File: [`HypeBike_DFD.drawio`](MotorcycleStore.drawio)
 
 📸 DFD Level 0 Excerpt:
-![DFD Level 0](./Used-Motorcycle-Sales-Platform/dfd 0.jpg)
+![DFD Level 0](dfd0.jpg)
 
 📸 DFD Level 1 Excerpt:
-![DFD Level 1](dfd 1.jpg)
+![DFD Level 1](dfd1.jpg)
 
 ---
 
 ### Entity Relationship Diagram (ERD)
 Shows the relationships between entities (User, Motorcycle, Promo, Log, etc.).
 
-📂 File: [`HypeBike_ERD.drawio`](.Used-Motorcycle-Sales-Platform/Motorcycle Store.drawio)
+📂 File: [`HypeBike_ERD.drawio`](MotorcycleStore.drawio)
 
 📸 ERD Screenshot:
 ![ERD](erd.jpg)
