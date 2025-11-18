@@ -40,6 +40,6 @@ Shows the relationships between entities (User, Motorcycle, Promo, Log, etc.).
 ## 🎨 Design Prototype (Figma)
 Interface preview.
 
-🔗 **Figma Preview:** [Click here to view the design](https://www.figma.com/proto/1JhH28Q3xJuz7YPIVDlRTh/Used-Motor-Cycle?node-id=1-2&p=f&t=qwt91QnbRVrlxbUI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-
+**Figma Preview:** [Click here to view the design](https://www.figma.com/proto/1JhH28Q3xJuz7YPIVDlRTh/Used-Motor-Cycle?node-id=1-2&p=f&t=qwt91QnbRVrlxbUI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+**Figma Project:** [Click here to view the project](https://www.figma.com/design/1JhH28Q3xJuz7YPIVDlRTh/Used-Motor-Cycle?node-id=0-1&t=eaduo0sbZJJx552e-1)
 ---
